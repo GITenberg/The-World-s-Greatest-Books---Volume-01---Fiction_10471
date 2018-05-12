@@ -1,5 +1,8 @@
 _repo: The-World-s-Greatest-Books---Volume-01---Fiction_10471
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Hammerton, John Alexander, Sir
@@ -19,6 +22,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
 description: This volume contains short excerpts from or abridgements of literary
   works.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10471#The-World-s-Greatest-Books---Volume-01---Fiction
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
